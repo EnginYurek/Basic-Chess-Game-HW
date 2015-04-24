@@ -1,10 +1,7 @@
 /*
-Object Oriented Programming HW2
+
 Engin Yürek
 040100524
-
-CRN:22490
-
 
 */
 
